@@ -1,25 +1,101 @@
-## Hi there i am sudarshan !! 😎😎
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sudarshan%20Sunil%20H admode&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+</div>
 
-<!--
-**sudarshandev-llm/sudarshandev-llm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Engineer;Physics+Simulation+Builder;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/sudarshandev-llm"><img src="https://img.shields.io/github/followers/sudarshandev-llm?label=Followers&style=social" alt="GitHub Followers"/></a>
+  <a href="https://github.com/sudarshandev-llm?tab=repositories"><img src="https://img.shields.io/badge/Repositories-12+-6C63FF?style=flat-square" alt="Repositories"/></a>
+  <a href="https://github.com/sudarshandev-llm/newton-simulation-appletheory"><img src="https://img.shields.io/badge/Project-Newton's%20Apple-FF6B6B?style=flat-square" alt="Project"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sudarshandev-llm&color=6C63FF&style=flat-square" alt="Profile Views"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-👑 Sigma Builder | AI Developer | Full-Stack Engineer in Progress  <br><br>I’m building my path in Artificial Intelligence with a strong obsession for  <br>**clean design, powerful systems, and real-world impact**.<br><br>I work across:<br>- 🧠 Artificial Intelligence & Machine Learning  <br>- 🤖 Large Language Models (LLMs)  <br>- 🎨 UI / UX Design (design that actually works)  <br>- ⚙️ Frontend & Backend Development  <br>- 📊 Data Analytics & Insights  <br><br>I don’t chase certificates — I chase **skill, consistency, and execution**.  <br>I learn by **building projects, breaking them, fixing them, and scaling them**.<br><br>🚀 **Mission**  <br>Build **100+ projects & prototypes** that solve real problems,  <br>from small experiments to full-scale systems.<br><br>🧩 **Mindset**<br>- Build before you’re ready  <br>- Progress > Perfection  <br>- Discipline beats motivation  <br>- Skills compound faster than luck  <br><br>⚔️ **Current Focus**<br>- AI systems & applied ML  <br>- LLM-based tools and automation  <br>- Full-stack applications  <br>- Design-first development  <br>- Data-driven decision making  <br><br>📈 Every repository is a step forward.  <br>No noise. No shortcuts. Just work.
+---
 
+### 👨‍💻 About Me
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Alumni ai ) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Coder.SH.DEV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beast.sudarsh0509) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudarshan.deve@gmail.com) 
+```yaml
+name: Sudarshan Sunil Hadmode
+location: Pune, India
+mission: Build impactful AI & full-stack solutions
+focus:
+  - Artificial Intelligence & Machine Learning
+  - Physics Simulations & Educational Tools
+  - Full-Stack Web Applications
+  - UI/UX Design with modern aesthetics
+brand: Team Alum / Alumni AI
+philosophy:
+  - Build before you're ready
+  - Progress > Perfection
+  - Skills compound faster than luck
+```
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Alfre
+I build **real-world projects** — from interactive physics simulations to production-ready billing systems. Every repository is a step toward mastering AI, systems design, and practical engineering.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [**Newton's Apple**](https://github.com/sudarshandev-llm/newton-simulation-appletheory) | Interactive physics lab — drop an apple under varying gravity & conditions | React, Matter.js, Vite, Tailwind | ✅ Live |
+| [**Om Services**](https://github.com/sudarshandev-llm/om-services) | Shop billing & management system with WhatsApp integration | Express, React, Node.js | ✅ Live |
+| [**Steve Focusmate**](https://github.com/sudarshandev-llm/steve-focusmate) | All-in-one study companion: Pomodoro timer, notes, calendar, goals | HTML/CSS/JS, Express | ✅ Live |
+| [**Sugar Rush Bakery**](https://github.com/sudarshandev-llm/Bakery-shop-sample) | Artisan bakery landing page with 3D parallax background | Three.js, HTML/CSS/JS | ✅ Live |
+| [**ALUM Portfolio**](https://github.com/sudarshandev-llm/Frontend-1) | 3D interactive developer portfolio | Three.js, GSAP | ✅ Live |
+
+---
+
+### 🛠️ Tech Stack
+
+**AI & ML**
+`Python` `TensorFlow` `LLMs` `LangChain` `OpenAI`
+
+**Frontend**
+`React` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind` `Three.js` `GSAP` `Framer Motion`
+
+**Backend**
+`Node.js` `Express` `Python` `PHP`
+
+**Databases**
+`MongoDB` `MySQL` `PostgreSQL` `SQLite`
+
+**Tools & Platforms**
+`Git` `Docker` `Vite` `Render` `Vercel` `Figma` `Adobe Suite`
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshandev-llm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshandev-llm&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshandev-llm&layout=compact&theme=tokyonight&hide_border=true" height="120"/>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:sudarshan.deve@gmail.com"><img src="https://img.shields.io/badge/Email-sudarshan.deve%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://behance.net/Coder.SH.DEV"><img src="https://img.shields.io/badge/Behance-Coder.SH.DEV-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://instagram.com/beast.sudarsh0509"><img src="https://img.shields.io/badge/Instagram-%40beast.sudarsh0509-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://app-7r4li86z9ibl.appmedo.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=web&logoColor=white"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontColor=white" width="100%"/>
+  <br/>
+  <strong>⚡ Building 100+ projects, one commit at a time ⚡</strong>
+  <br/><br/>
+  <sub>✨ Open source with ❤️ by <a href="https://github.com/sudarshandev-llm">sudarshandev-llm</a></sub>
+</div>
