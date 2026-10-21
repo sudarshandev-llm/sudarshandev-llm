@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sudarshan%20Sunil%20H admode&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sudarshan%20Sunil%20Hadmode&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Engineer;Physics+Simulation+Builder;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&color=6C63FF&center=true&vCenter=true&width=650&lines=Startup+%26+Founder+of+Team+Alum;Alumni+AI+Developer;AI+Engineer+%26+Prompt+Engineer;Full-Stack+Developer+%26+Systems+Builder" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <a href="https://github.com/sudarshandev-llm"><img src="https://img.shields.io/github/followers/sudarshandev-llm?label=Followers&style=social" alt="GitHub Followers"/></a>
-  <a href="https://github.com/sudarshandev-llm?tab=repositories"><img src="https://img.shields.io/badge/Repositories-12+-6C63FF?style=flat-square" alt="Repositories"/></a>
-  <a href="https://github.com/sudarshandev-llm/newton-simulation-appletheory"><img src="https://img.shields.io/badge/Project-Newton's%20Apple-FF6B6B?style=flat-square" alt="Project"/></a>
+  <a href="https://github.com/sudarshandev-llm?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20+-6C63FF?style=flat-square" alt="Repositories"/></a>
+  <a href="https://github.com/teamalumorg-develop/alumni-ai"><img src="https://img.shields.io/badge/Flagship-Alumni%20AI-00D26A?style=flat-square&logo=openai" alt="Flagship Project"/></a>
+  <a href="https://sudarshan.dev/"><img src="https://img.shields.io/badge/Portfolio-sudarshan.dev-FF6B6B?style=flat-square&logo=googlechrome" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=sudarshandev-llm&color=6C63FF&style=flat-square" alt="Profile Views"/>
 </div>
 
@@ -19,56 +20,98 @@
 
 ```yaml
 name: Sudarshan Sunil Hadmode
-location: Pune, India
-mission: Build impactful AI & full-stack solutions
+role: Startup & Founder of Team Alum | Alumni AI Developer
+location: Pune, Maharashtra, India
+mission: Build frontier AI systems, intelligent developer tooling, and production-grade full-stack platforms
 focus:
-  - Artificial Intelligence & Machine Learning
-  - Physics Simulations & Educational Tools
-  - Full-Stack Web Applications
-  - UI/UX Design with modern aesthetics
+  - Multi-Modal AI Systems & Multi-Tier Reasoning Engines
+  - Live AI Workspaces & Interactive Code Artifact Previewers
+  - Real-Time Full-Stack Architectures & High-Performance Backends
+  - 3D Visual Computing & Modern Interactive Web Experiences
 brand: Team Alum / Alumni AI
+portfolio: https://sudarshan.dev/
 philosophy:
   - Build before you're ready
   - Progress > Perfection
-  - Skills compound faster than luck
+  - Relentless execution & honest engineering
 ```
 
-I build **real-world projects** — from interactive physics simulations to production-ready billing systems. Every repository is a step toward mastering AI, systems design, and practical engineering.
+I am an **AI Engineer and Full-Stack Developer** passionate about building high-impact systems from scratch — ranging from multi-tier LLM reasoning architectures with real-time web browsing to interactive 3D simulations and production platforms.
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [**Newton's Apple**](https://github.com/sudarshandev-llm/newton-simulation-appletheory) | Interactive physics lab — drop an apple under varying gravity & conditions | React, Matter.js, Vite, Tailwind | ✅ Live |
-| [**Om Services**](https://github.com/sudarshandev-llm/om-services) | Shop billing & management system with WhatsApp integration | Express, React, Node.js | ✅ Live |
-| [**Steve Focusmate**](https://github.com/sudarshandev-llm/steve-focusmate) | All-in-one study companion: Pomodoro timer, notes, calendar, goals | HTML/CSS/JS, Express | ✅ Live |
-| [**Sugar Rush Bakery**](https://github.com/sudarshandev-llm/Bakery-shop-sample) | Artisan bakery landing page with 3D parallax background | Three.js, HTML/CSS/JS | ✅ Live |
-| [**ALUM Portfolio**](https://github.com/sudarshandev-llm/Frontend-1) | 3D interactive developer portfolio | Three.js, GSAP | ✅ Live |
+| Project | Description | Stack | Status / Links |
+| :--- | :--- | :--- | :--- |
+| 🤖 [**Alumni AI**](https://github.com/teamalumorg-develop/alumni-ai) | **Flagship System**: Advanced AI engine with multiple operational modes (Professional, Basic, Sarcastic), voice companion May, integrated Chrome browser, live **Artifact Studio** previewer, and 10-Tier fallback reasoning architecture. | Python, FastAPI, SQLite WAL, Groq, OpenCode Zen, Tailwind CSS | 🚀 [Org Repo](https://github.com/teamalumorg-develop/alumni-ai) • [Personal Mirror](https://github.com/sudarshandev-llm/alumni-ai) |
+| 🌐 [**Team Alum Platform**](https://github.com/sudarshandev-llm/team-alum) | Official platform and ecosystem of **Team Alum**. Building intelligent tools, productivity engines, and AI software for developers and students. | HTML5, CSS3, Modern JS, Vercel | 🌐 [Live Site](https://team-alum.vercel.app/) |
+| ⚡ [**Sudarshan Portfolio**](https://github.com/sudarshandev-llm/sudarshan-portfolio) | Interactive 3D developer portfolio featuring real-time terminal mode, interactive project showcases, responsive canvas animations, and automated SEO. | Three.js, GSAP, HTML5, CSS3, JavaScript | 🌐 [sudarshan.dev](https://sudarshan.dev/) • [Live Demo](https://sudarshanbbs.github.io/sudarshan-portfolio/) |
+| 🍎 [**Newton's Apple**](https://github.com/sudarshandev-llm/newton-simulation-appletheory) | Interactive physics lab & gravitational simulation — experiment with gravity, atmospheric drag, and physical laws in real time. | React, Matter.js, Vite, Tailwind CSS | ✅ [View Repo](https://github.com/sudarshandev-llm/newton-simulation-appletheory) |
+| 🛍️ [**Productopia**](https://github.com/sudarshandev-llm/Productopia) | Modern full-stack e-commerce marketplace and catalog platform designed for seamless product discovery, checkout, and inventory workflows. | React, Node.js, Express, Tailwind CSS | 🛒 [View Repo](https://github.com/sudarshandev-llm/Productopia) |
+| ⏱️ [**Steve Focusmate**](https://github.com/sudarshandev-llm/steve-focusmate) | All-in-one deep work and study companion featuring Pomodoro cycles, ambient audio soundscapes, persistent notes, and goal tracking. | HTML5, CSS3, JavaScript, Node.js | 🎯 [View Repo](https://github.com/sudarshandev-llm/steve-focusmate) |
+| 🧾 [**Om Services**](https://github.com/sudarshandev-llm/om-services) | Production store billing, inventory tracking, and client invoicing management system equipped with automated WhatsApp dispatch. | Express, React, Node.js, WhatsApp API | 💼 [View Repo](https://github.com/sudarshandev-llm/om-services) |
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Engineering Toolkit
 
-**AI & ML**
-`Python` `TensorFlow` `LLMs` `LangChain` `OpenAI`
-
-**Frontend**
-`React` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind` `Three.js` `GSAP` `Framer Motion`
-
-**Backend**
-`Node.js` `Express` `Python` `PHP`
-
-**Databases**
-`MongoDB` `MySQL` `PostgreSQL` `SQLite`
-
-**Tools & Platforms**
-`Git` `Docker` `Vite` `Render` `Vercel` `Figma` `Adobe Suite`
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>🧠 AI & LLM Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCode_Zen-7928CA?style=flat-square&logo=codeforces&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=speedtest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-007ACC?style=flat-square&logo=powershell&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Autonomous_Agents-FF6B6B?style=flat-square&logo=probot&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>🎨 Frontend & Creative</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>⚙️ Backend & Storage</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>🚀 DevOps & Tooling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudarshandev-llm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -81,13 +124,15 @@ I build **real-world projects** — from interactive physics simulations to prod
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect & Collaborate
 
 <div align="center">
-  <a href="mailto:sudarshan.deve@gmail.com"><img src="https://img.shields.io/badge/Email-sudarshan.deve%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://behance.net/Coder.SH.DEV"><img src="https://img.shields.io/badge/Behance-Coder.SH.DEV-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://instagram.com/beast.sudarsh0509"><img src="https://img.shields.io/badge/Instagram-%40beast.sudarsh0509-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://app-7r4li86z9ibl.appmedo.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=web&logoColor=white"/></a>
+  <a href="https://sudarshan.dev/"><img src="https://img.shields.io/badge/Portfolio-sudarshan.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:sudarshan.deve@gmail.com"><img src="https://img.shields.io/badge/Email-sudarshan.deve%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/sudarshan-hadmode"><img src="https://img.shields.io/badge/LinkedIn-sudarshan--hadmode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/sudarshan.css"><img src="https://img.shields.io/badge/Instagram-%40sudarshan.css-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/sudarshandev-llm"><img src="https://img.shields.io/badge/GitHub-sudarshandev--llm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://behance.net/Coder.SH.DEV"><img src="https://img.shields.io/badge/Behance-Coder.SH.DEV-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </div>
 
 ---
@@ -95,7 +140,7 @@ I build **real-world projects** — from interactive physics simulations to prod
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontColor=white" width="100%"/>
   <br/>
-  <strong>⚡ Building 100+ projects, one commit at a time ⚡</strong>
+  <strong>⚡ Building impactful intelligent systems, one commit at a time ⚡</strong>
   <br/><br/>
-  <sub>✨ Open source with ❤️ by <a href="https://github.com/sudarshandev-llm">sudarshandev-llm</a></sub>
+  <sub>Crafted with passion by <a href="https://github.com/sudarshandev-llm">Sudarshan Sunil Hadmode</a> • Founder of Team Alum</sub>
 </div>
