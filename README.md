@@ -27,7 +27,7 @@ organization: Team Alum (https://team-alum.vercel.app/)
 flagship_ai: Alumni AI (https://github.com/teamalumorg-develop/alumni-ai)
 location: Pune, Maharashtra, India
 official_domain: https://sudarshan.dev/
-live_portfolio: https://sudarshanbbs.github.io/sudarshan-portfolio/
+live_portfolio: https://sudarshandev-llm.github.io/sudarshan-portfolio/
 mission: Build frontier multi-agent AI systems, intelligent developer tooling, and production full-stack platforms
 focus:
   - Multi-Modal AI Architectures & 10-Tier Reasoning Fallback Systems
@@ -50,13 +50,13 @@ I am the **Startup & Founder of [Team Alum](https://team-alum.vercel.app/)** and
 
 | Project | Description | Stack | Status / Links |
 | :--- | :--- | :--- | :--- |
-| 🤖 [**Alumni AI**](https://github.com/teamalumorg-develop/alumni-ai) | **Flagship AI System**: Advanced multi-modal AI engine with operational modes (Professional, Basic, Sarcastic), voice companion May, integrated Chrome browser, live **Artifact Studio** previewer, and 10-Tier fallback reasoning architecture. | Python, FastAPI, SQLite WAL, Groq, OpenCode Zen, Tailwind CSS | 🚀 [Org Repo](https://github.com/teamalumorg-develop/alumni-ai) • [Personal Mirror](https://github.com/sudarshandev-llm/alumni-ai) |
-| 🌐 [**Team Alum Platform**](https://github.com/sudarshandev-llm/team-alum) | Official digital platform and core ecosystem of **Team Alum**. Building intelligent tools, productivity engines, and AI software for developers and students. | HTML5, CSS3, Modern JS, Vercel | 🌐 [team-alum.vercel.app](https://team-alum.vercel.app/) • [Source](https://github.com/sudarshandev-llm/team-alum) |
-| ⚡ [**AgentForge**](https://github.com/sudarshandev-llm/agent-forge-prototype) | Comprehensive open-source AI agent platform for building, deploying, and orchestrating intelligent multi-agent teams with visual drag-and-drop workflow builder, Model Context Protocol (MCP) tool system, and multi-LLM routing. | TypeScript, Next.js 15, tRPC, Docker, Tailwind CSS, BullMQ | 🛠️ [View Repo](https://github.com/sudarshandev-llm/agent-forge-prototype) |
-| 🔮 [**Sudarshan Portfolio**](https://github.com/sudarshandev-llm/sudarshan-portfolio) | Interactive 3D developer portfolio featuring real-time terminal mode, interactive project showcases, responsive canvas animations, and automated SEO. | Three.js, GSAP, HTML5, CSS3, JavaScript | 🌐 [sudarshan.dev](https://sudarshan.dev/) • [Live Demo](https://sudarshanbbs.github.io/sudarshan-portfolio/) |
-| 🍎 [**Newton's Apple**](https://github.com/sudarshandev-llm/newton-simulation-appletheory) | Interactive physics laboratory & gravitational simulation — experiment with gravity, atmospheric drag, and physical laws in real time. | React, Matter.js, Vite, Tailwind CSS | ✅ [View Repo](https://github.com/sudarshandev-llm/newton-simulation-appletheory) |
-| 🛍️ [**Productopia**](https://github.com/sudarshandev-llm/Productopia) | Modern full-stack e-commerce marketplace and catalog platform designed for seamless product discovery, checkout, and inventory workflows. | React, Node.js, Express, Tailwind CSS | 🛒 [View Repo](https://github.com/sudarshandev-llm/Productopia) |
-| ⏱️ [**Steve Focusmate**](https://github.com/sudarshandev-llm/steve-focusmate) | All-in-one deep work and study companion featuring Pomodoro cycles, ambient audio soundscapes, persistent notes, and goal tracking. | HTML5, CSS3, JavaScript, Node.js | 🎯 [View Repo](https://github.com/sudarshandev-llm/steve-focusmate) |
+| 🤖 [**Alumni AI**](https://alumni-ai-teamalum.vercel.app/) | **Flagship AI System**: Advanced multi-modal AI engine with operational modes (Professional, Basic, Sarcastic), voice companion May, integrated Chrome browser, live **Artifact Studio** previewer, and 10-Tier fallback reasoning architecture. | Python, FastAPI, SQLite WAL, Groq, OpenCode Zen, Tailwind CSS | 🚀 [Live Demo](https://alumni-ai-teamalum.vercel.app/) • [Org Repo](https://github.com/teamalumorg-develop/alumni-ai) • [Personal Mirror](https://github.com/sudarshandev-llm/alumni-ai) |
+| 🌐 [**Team Alum Platform**](https://team-alum.vercel.app/) | Official digital platform and core ecosystem of **Team Alum**. Building intelligent tools, productivity engines, and AI software for developers and students. | HTML5, CSS3, Modern JS, Vercel | 🌐 [Live Site](https://team-alum.vercel.app/) • [Source](https://github.com/sudarshandev-llm/team-alum) |
+| ⚡ [**AgentForge**](https://agent-forge.vercel.app/) | Comprehensive open-source AI agent platform for building, deploying, and orchestrating intelligent multi-agent teams with visual drag-and-drop workflow builder, Model Context Protocol (MCP) tool system, and multi-LLM routing. | TypeScript, Next.js 15, tRPC, Docker, Tailwind CSS, BullMQ | 🛠️ [Live Demo](https://agent-forge.vercel.app/) • [View Repo](https://github.com/sudarshandev-llm/agent-forge-prototype) |
+| 🔮 [**Sudarshan Portfolio**](https://sudarshandev-llm.github.io/sudarshan-portfolio/) | Interactive 3D developer portfolio featuring real-time terminal mode, interactive project showcases, responsive canvas animations, and automated SEO. | Three.js, GSAP, HTML5, CSS3, JavaScript | 🌐 [Live Portfolio](https://sudarshandev-llm.github.io/sudarshan-portfolio/) • [Source](https://github.com/sudarshandev-llm/sudarshan-portfolio) |
+| 🍎 [**Newton's Apple**](https://sudarshandev-llm.github.io/newton-simulation-appletheory/) | Interactive physics laboratory & gravitational simulation — experiment with gravity, atmospheric drag, and physical laws in real time. | React, Matter.js, Vite, Tailwind CSS | ✅ [Live Demo](https://sudarshandev-llm.github.io/newton-simulation-appletheory/) • [View Repo](https://github.com/sudarshandev-llm/newton-simulation-appletheory) |
+| 🛍️ [**Productopia**](https://github.com/sudarshandev-llm/Productopia) | Modern full-stack e-commerce marketplace and catalog platform designed for seamless product discovery, checkout, and inventory workflows. | React, Node.js, Express, Tailwind CSS | 🚧 In Development • [View Repo](https://github.com/sudarshandev-llm/Productopia) |
+| ⏱️ [**Steve Focusmate**](https://sudarshandev-llm.github.io/steve-focusmate/) | All-in-one deep work and study companion featuring Pomodoro cycles, ambient audio soundscapes, persistent notes, and goal tracking. | HTML5, CSS3, JavaScript, Node.js | 🎯 [Live Demo](https://sudarshandev-llm.github.io/steve-focusmate/) • [View Repo](https://github.com/sudarshandev-llm/steve-focusmate) |
 
 ---
 
@@ -157,7 +157,7 @@ I am the **Startup & Founder of [Team Alum](https://team-alum.vercel.app/)** and
       <span>AI Engineer &amp; Full-Stack Developer in Pune, Maharashtra, India</span>
       <br/>
       Official Website: <a href="https://sudarshan.dev/" itemprop="url">sudarshan.dev</a> &bull;
-      Live Portfolio: <a href="https://sudarshanbbs.github.io/sudarshan-portfolio/">sudarshanbbs.github.io/sudarshan-portfolio</a> &bull;
+      Live Portfolio: <a href="https://sudarshandev-llm.github.io/sudarshan-portfolio/">sudarshandev-llm.github.io/sudarshan-portfolio</a> &bull;
       GitHub: <a href="https://github.com/sudarshandev-llm" itemprop="sameAs">@sudarshandev-llm</a> &bull;
       LinkedIn: <a href="https://linkedin.com/in/sudarshan-hadmode" itemprop="sameAs">sudarshan-hadmode</a>
     </small>
