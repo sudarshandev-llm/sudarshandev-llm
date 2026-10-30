@@ -4,7 +4,7 @@
 
 <h1 align="center" itemscope itemtype="https://schema.org/Person">
   <span itemprop="name" style="display:none;">Sudarshan Sunil Hadmode (Sudarshan Hadmode)</span>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=600&color=6C63FF&center=true&vCenter=true&width=680&lines=Startup+%26+Founder+of+Team+Alum;Alumni+AI+Developer;AI+Engineer+%26+Prompt+Engineer;Full-Stack+Developer+%26+Systems+Builder" alt="Sudarshan Sunil Hadmode - Startup & Founder of Team Alum, Alumni AI Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=600&color=6C63FF&center=true&vCenter=true&width=680&lines=Startup+%26+Founder+of+Team+Alum;Alumni+AI+Developer;Full-Stack+Developer+%26+Builder;Prompt+Engineer+%26+Creator" alt="Sudarshan Sunil Hadmode - Startup & Founder of Team Alum, Alumni AI Developer" />
 </h1>
 
 <div align="center">
@@ -42,7 +42,7 @@ philosophy:
   - Relentless execution & honest engineering
 ```
 
-I am the **Startup & Founder of [Team Alum](https://team-alum.vercel.app/)** and developer of [**Alumni AI**](https://github.com/teamalumorg-develop/alumni-ai) (also available at [@sudarshandev-llm/alumni-ai](https://github.com/sudarshandev-llm/alumni-ai)). Based in Pune, Maharashtra, India, I specialize as an **AI Engineer and Full-Stack Developer** building production systems from scratch — ranging from multi-tier LLM reasoning architectures with integrated Chrome browser automation and voice companions to autonomous agent orchestration platforms like [**AgentForge**](https://github.com/sudarshandev-llm/agent-forge-prototype) and interactive 3D physics simulations.
+I am the **Startup & Founder of [Team Alum](https://team-alum.vercel.app/)** and developer of [**Alumni AI**](https://github.com/teamalumorg-develop/alumni-ai) (also available at [@sudarshandev-llm/alumni-ai](https://github.com/sudarshandev-llm/alumni-ai)). Based in Pune, Maharashtra, India, I specialize as an **Alumni AI Developer and Full-Stack Developer** building production systems from scratch — ranging from multi-tier LLM reasoning architectures with integrated Chrome browser automation and voice companions to autonomous agent orchestration platforms like [**AgentForge**](https://github.com/sudarshandev-llm/agent-forge-prototype) and interactive 3D physics simulations.
 
 ---
 
@@ -154,7 +154,7 @@ I am the **Startup & Founder of [Team Alum](https://team-alum.vercel.app/)** and
       <strong>Sudarshan Sunil Hadmode</strong> (also known as <em>Sudarshan Hadmode</em>) &bull;
       <span>Startup &amp; Founder of <a href="https://team-alum.vercel.app/" itemprop="affiliation">Team Alum</a></span> &bull;
       <span>Alumni AI Developer</span> &bull;
-      <span>AI Engineer &amp; Full-Stack Developer in Pune, Maharashtra, India</span>
+      <span>Alumni AI Developer &amp; Full-Stack Developer in Pune, Maharashtra, India</span>
       <br/>
       Official Website: <a href="https://sudarshan.dev/" itemprop="url">sudarshan.dev</a> &bull;
       Live Portfolio: <a href="https://sudarshandev-llm.github.io/sudarshan-portfolio/">sudarshandev-llm.github.io/sudarshan-portfolio</a> &bull;
